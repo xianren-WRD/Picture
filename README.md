@@ -1,2 +1,2 @@
 # Picture
-typora 图床
+图床
